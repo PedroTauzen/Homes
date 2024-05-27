@@ -3,7 +3,7 @@ export interface HousingLocation {
   name: string;
   city: string;
   state: string;
-  photo_url: string;
+  photo: string;
   availableUnits: number;
   wifi: boolean;
   laundry: boolean;
